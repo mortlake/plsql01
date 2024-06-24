@@ -1,0 +1,6 @@
+CREARTE OR REPLACE PROCEDURE proc
+AS
+BEGIN
+   NULL;
+END proc;
+/
